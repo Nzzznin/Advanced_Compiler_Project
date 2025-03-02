@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/JavaParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Python3" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/JavaLexer.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Python3" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/Phase2/Expr.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Python3" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/Phase2/JavaParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\Projects\CompilerProject\Phase2\gen" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Python3" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/Test/Expr.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\Projects\CompilerProject\Test\gen" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Python3" />
+          <option name="generateListener" value="false" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/Test/Expr2.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\Projects\CompilerProject\Test\gen" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Python3" />
+          <option name="generateListener" value="false" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/Stuff/JavaParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\Projects\CompilerProject\Stuff\gen" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Python3" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/Phase3/JavaParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="D:\Projects\CompilerProject\Phase3\gen" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="Python3" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (Phase1)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Phase1)" project-jdk-type="Python SDK" />
+</project>
