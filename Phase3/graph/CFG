@@ -1,0 +1,24 @@
+digraph {
+	B1 [label="B1
+
+number = 3
+t1 = number > 5
+if NOT t1 goto L2" shape=box]
+	B2 [label="B2
+
+number = number / 7
+" shape=box]
+	B3 [label="B3
+
+L2:
+number = number * 14" shape=box]
+	entry [label=entry shape=box]
+	exit [label=exit shape=box]
+	entry -> B1
+	B3 -> exit
+	B1 -> B3
+	B1 -> B2
+	B2 -> B3
+	node [color=lightgray fontsize=14 style=filled]
+	edge [fontsize=12]
+}
